@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1" conditions="">
+    <TocEntry Title="Title &#xA;Page - Developing Quality Technical Information: A Handbook for Writers and &#xA;Editors, Third Edition" Link="/Content/Title Page - Developing Quality Technical Information A Handbook for Writers and Editors, Third Edition.html" />
+    <TocEntry Title="Preface - Developing Quality &#xA;Technical Information: A Handbook for Writers and Editors, Third &#xA;Edition" Link="/Content/Preface.html" />
+    <TocEntry Title="Acknowledgments - &#xA;Developing Quality Technical Information: A Handbook for Writers and Editors, &#xA;Third Edition" Link="/Content/Acknowledgments.html" />
+    <TocEntry Title="About the authors - &#xA;Developing Quality Technical Information: A Handbook for Writers and Editors, &#xA;Third Edition" Link="/Content/Authors.html" />
+    <TocEntry Title="Introduction">
+        <TocEntry Title="Intro" Link="/Content/Part 1 Introduction.html" />
+        <TocEntry Title="Chapter 1 Technical information continues to evolve" Link="/Content/Chapter 1 Technical information continues to evolve.html" />
+        <TocEntry Title="Chapter 2 Developing quality technical information" Link="/Content/Chapter 2 Developing quality technical information.html" />
+    </TocEntry>
+    <TocEntry Title="Easy to use">
+        <TocEntry Title=" Easy to use" Link="/Content/Part 2 Easy to use.html" />
+        <TocEntry Title="Task orientation" Link="/Content/Chapter 3 Task orientation.html" />
+        <TocEntry Title="Accuracy" Link="/Content/Chapter 4 Accuracy.html" />
+        <TocEntry Title=" Completeness" Link="/Content/Chapter 5. Completeness.html" />
+    </TocEntry>
+    <TocEntry Title="Easy to understand">
+        <TocEntry Title="Easy to understand" Link="/Content/Part 3 Easy to understand.html" />
+        <TocEntry Title="Clarity" Link="/Content/Chapter 6 Clarity.html" />
+        <TocEntry Title="Concreteness" Link="/Content/Chapter 7 Concreteness.html" />
+        <TocEntry Title="Style" Link="/Content/Chapter 8 Style.html" />
+    </TocEntry>
+    <TocEntry Title="Easy to Find">
+        <TocEntry Title="Easy to find" Link="/Content/Part 4 Easy to find.html" />
+        <TocEntry Title="Organization" Link="/Content/Chapter 9 Organization.html" />
+        <TocEntry Title="Retrievability" Link="/Content/Chapter 10 Retrievability.html" />
+        <TocEntry Title="Visual effectiveness" Link="/Content/Chapter 11 Visual effectiveness.html" />
+    </TocEntry>
+    <TocEntry Title="Putting it altogether">
+        <TocEntry Title=" Putting it all together" Link="/Content/Part 5 Putting it all together.html" />
+        <TocEntry Title="Applying more than one quality characteristic" Link="/Content/Chapter 12 Applying more than one quality characteristic.html" />
+        <TocEntry Title="Reviewing, testing, and evaluating technical information" Link="/Content/Chapter 13 Reviewing, testing, and evaluating technical information.html" />
+        <TocEntry Title="More Information" Link="/Content/A_Introduction Topics/MoreInformation.htm" />
+    </TocEntry>
+    <TocEntry Title="Appendices" Link="/Content/B_Feature Topics/Features.htm" StartSection="false">
+        <TocEntry Title="Appendixes" Link="/Content/Part 6 Appendixes.html" />
+        <TocEntry Title="Glossary - Developing &#xA;Quality Technical Information: A Handbook for Writers and Editors, Third &#xA;Edition" Link="/Content/Glossary.html" />
+    </TocEntry>
+</CatapultToc>

@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="true"
+  ProjectName="DCTI"
+  ProjectFolder="C:\Users\nabbey\Documents\My Projects\DCTI\"
+  AutoSync="false"
+  SourceFolders=""
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="content"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2015-04-07T13:06:19.0481486+01:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="../../../../../../../DQTI/Acknowledgments.html"
+      AbsoluteSource="file:///C:/DQTI/Acknowledgments.html" />
+    <Url
+      Source="../../../../../../../DQTI/Authors.html"
+      AbsoluteSource="file:///C:/DQTI/Authors.html" />
+    <Url
+      Source="../../../../../../../DQTI/Chapter 1 Technical information continues to evolve.html"
+      AbsoluteSource="file:///C:/DQTI/Chapter 1 Technical information continues to evolve.html" />
+    <Url
+      Source="../../../../../../../DQTI/Chapter 2 Developing quality technical information.html"
+      AbsoluteSource="file:///C:/DQTI/Chapter 2 Developing quality technical information.html" />
+    <Url
+      Source="../../../../../../../DQTI/Chapter 3 Task orientation.html"
+      AbsoluteSource="file:///C:/DQTI/Chapter 3 Task orientation.html" />
+    <Url
+      Source="../../../../../../../DQTI/Chapter 4 Accuracy.html"
+      AbsoluteSource="file:///C:/DQTI/Chapter 4 Accuracy.html" />
+    <Url
+      Source="../../../../../../../DQTI/Chapter 5. Completeness.html"
+      AbsoluteSource="file:///C:/DQTI/Chapter 5. Completeness.html" />
+    <Url
+      Source="../../../../../../../DQTI/Chapter 6 Clarity.html"
+      AbsoluteSource="file:///C:/DQTI/Chapter 6 Clarity.html" />
+    <Url
+      Source="../../../../../../../DQTI/Chapter 7 Concreteness.html"
+      AbsoluteSource="file:///C:/DQTI/Chapter 7 Concreteness.html" />
+    <Url
+      Source="../../../../../../../DQTI/Chapter 8 Style.html"
+      AbsoluteSource="file:///C:/DQTI/Chapter 8 Style.html" />
+    <Url
+      Source="../../../../../../../DQTI/Chapter 9 Organization.html"
+      AbsoluteSource="file:///C:/DQTI/Chapter 9 Organization.html" />
+    <Url
+      Source="../../../../../../../DQTI/Chapter 10 Retrievability.html"
+      AbsoluteSource="file:///C:/DQTI/Chapter 10 Retrievability.html" />
+    <Url
+      Source="../../../../../../../DQTI/Chapter 11 Visual effectiveness.html"
+      AbsoluteSource="file:///C:/DQTI/Chapter 11 Visual effectiveness.html" />
+    <Url
+      Source="../../../../../../../DQTI/Chapter 12 Applying more than one quality characteristic.html"
+      AbsoluteSource="file:///C:/DQTI/Chapter 12 Applying more than one quality characteristic.html" />
+    <Url
+      Source="../../../../../../../DQTI/Chapter 13 Reviewing, testing, and evaluating technical information.html"
+      AbsoluteSource="file:///C:/DQTI/Chapter 13 Reviewing, testing, and evaluating technical information.html" />
+    <Url
+      Source="../../../../../../../DQTI/copyright.html"
+      AbsoluteSource="file:///C:/DQTI/copyright.html" />
+    <Url
+      Source="../../../../../../../DQTI/Glossary.html"
+      AbsoluteSource="file:///C:/DQTI/Glossary.html" />
+    <Url
+      Source="../../../../../../../DQTI/Part 1 Introduction.html"
+      AbsoluteSource="file:///C:/DQTI/Part 1 Introduction.html" />
+    <Url
+      Source="../../../../../../../DQTI/Part 2 Easy to use.html"
+      AbsoluteSource="file:///C:/DQTI/Part 2 Easy to use.html" />
+    <Url
+      Source="../../../../../../../DQTI/Part 3 Easy to understand.html"
+      AbsoluteSource="file:///C:/DQTI/Part 3 Easy to understand.html" />
+    <Url
+      Source="../../../../../../../DQTI/Part 4 Easy to find.html"
+      AbsoluteSource="file:///C:/DQTI/Part 4 Easy to find.html" />
+    <Url
+      Source="../../../../../../../DQTI/Part 5 Putting it all together.html"
+      AbsoluteSource="file:///C:/DQTI/Part 5 Putting it all together.html" />
+    <Url
+      Source="../../../../../../../DQTI/Part 6 Appendixes.html"
+      AbsoluteSource="file:///C:/DQTI/Part 6 Appendixes.html" />
+    <Url
+      Source="../../../../../../../DQTI/Preface.html"
+      AbsoluteSource="file:///C:/DQTI/Preface.html" />
+    <Url
+      Source="../../../../../../../DQTI/Title Page - Developing Quality Technical Information A Handbook for Writers and Editors, Third Edition.html"
+      AbsoluteSource="file:///C:/DQTI/Title Page - Developing Quality Technical Information A Handbook for Writers and Editors, Third Edition.html" />
+    <Url
+      Source="../../../../../../../DQTI/TOC.html"
+      AbsoluteSource="file:///C:/DQTI/TOC.html" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Acknowledgments.html"
+      TimeStamp="07/04/2015 13:05:29" />
+    <Url
+      Source="../../Content/Authors.html"
+      TimeStamp="07/04/2015 13:05:29" />
+    <Url
+      Source="../../Content/Chapter 1 Technical information continues to evolve.html"
+      TimeStamp="07/04/2015 13:05:30" />
+    <Url
+      Source="../../Content/Chapter 2 Developing quality technical information.html"
+      TimeStamp="07/04/2015 13:05:30" />
+    <Url
+      Source="../../Content/Chapter 3 Task orientation.html"
+      TimeStamp="07/04/2015 13:05:30" />
+    <Url
+      Source="../../Content/Chapter 4 Accuracy.html"
+      TimeStamp="07/04/2015 13:05:31" />
+    <Url
+      Source="../../Content/Chapter 5. Completeness.html"
+      TimeStamp="07/04/2015 13:05:32" />
+    <Url
+      Source="../../Content/Chapter 6 Clarity.html"
+      TimeStamp="07/04/2015 13:05:32" />
+    <Url
+      Source="../../Content/Chapter 7 Concreteness.html"
+      TimeStamp="07/04/2015 13:05:33" />
+    <Url
+      Source="../../Content/Chapter 8 Style.html"
+      TimeStamp="07/04/2015 13:05:33" />
+    <Url
+      Source="../../Content/Chapter 9 Organization.html"
+      TimeStamp="07/04/2015 13:05:34" />
+    <Url
+      Source="../../Content/Chapter 10 Retrievability.html"
+      TimeStamp="07/04/2015 13:05:34" />
+    <Url
+      Source="../../Content/Chapter 11 Visual effectiveness.html"
+      TimeStamp="07/04/2015 13:05:35" />
+    <Url
+      Source="../../Content/Chapter 12 Applying more than one quality characteristic.html"
+      TimeStamp="07/04/2015 13:05:35" />
+    <Url
+      Source="../../Content/Chapter 13 Reviewing, testing, and evaluating technical information.html"
+      TimeStamp="07/04/2015 13:05:35" />
+    <Url
+      Source="../../Content/copyright.html"
+      TimeStamp="07/04/2015 13:05:36" />
+    <Url
+      Source="../../Content/Glossary.html"
+      TimeStamp="07/04/2015 13:05:36" />
+    <Url
+      Source="../../Content/Part 1 Introduction.html"
+      TimeStamp="07/04/2015 13:05:36" />
+    <Url
+      Source="../../Content/Part 2 Easy to use.html"
+      TimeStamp="07/04/2015 13:05:37" />
+    <Url
+      Source="../../Content/Part 3 Easy to understand.html"
+      TimeStamp="07/04/2015 13:05:37" />
+    <Url
+      Source="../../Content/Part 4 Easy to find.html"
+      TimeStamp="07/04/2015 13:05:37" />
+    <Url
+      Source="../../Content/Part 5 Putting it all together.html"
+      TimeStamp="07/04/2015 13:05:37" />
+    <Url
+      Source="../../Content/Part 6 Appendixes.html"
+      TimeStamp="07/04/2015 13:05:37" />
+    <Url
+      Source="../../Content/Preface.html"
+      TimeStamp="07/04/2015 13:05:38" />
+    <Url
+      Source="../../Content/Title Page - Developing Quality Technical Information A Handbook for Writers and Editors, Third Edition.html"
+      TimeStamp="07/04/2015 13:05:38" />
+    <Url
+      Source="../../Content/TOC.html"
+      TimeStamp="07/04/2015 13:05:38" />
+    <Url
+      Source="../TOCs/Acknowledgments2.fltoc"
+      TimeStamp="07/04/2015 13:06:17" />
+  </GeneratedFiles>
+</HtmlImport>
