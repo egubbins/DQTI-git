@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalIndex
+  SavedSource="file:///C:/Users/bfbuckley/Git Brid/Output/bfbuckley/Temporary/GlobalIndex v.6.catapultindex">
+  <IndexEntry>
+    <Entries>
+      <IndexEntry
+        Term="Features">
+        <Entries>
+          <IndexEntry
+            Term="new">
+            <Entries />
+            <Links>
+              <IndexLink
+                Link="A_Introduction Topics/WhatsNew.htm"
+                UsedConditions=""
+                LocalConditions="" />
+            </Links>
+            <SeeAlsoLinks />
+            <IndexControlLinks />
+            <SortAsLinks />
+          </IndexEntry>
+        </Entries>
+        <Links />
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Information">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="A_Introduction Topics/MoreInformation.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="New features">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="A_Introduction Topics/WhatsNew.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+    </Entries>
+    <Links />
+    <SeeAlsoLinks />
+    <IndexControlLinks />
+    <SortAsLinks />
+  </IndexEntry>
+  <SourceUrls>
+    <Url
+      Source="Acknowledgments.html" />
+    <Url
+      Source="Authors.html" />
+    <Url
+      Source="Chapter 1 Technical information continues to evolve.html" />
+    <Url
+      Source="Chapter 10 Retrievability.html" />
+    <Url
+      Source="Chapter 11 Visual effectiveness.html" />
+    <Url
+      Source="Chapter 12 Applying more than one quality characteristic.html" />
+    <Url
+      Source="Chapter 13 Reviewing, testing, and evaluating technical information.html" />
+    <Url
+      Source="Chapter 2 Developing quality technical information.html" />
+    <Url
+      Source="Chapter 3 Task orientation.html" />
+    <Url
+      Source="Chapter 4 Accuracy.html" />
+    <Url
+      Source="Chapter 5. Completeness.html" />
+    <Url
+      Source="Chapter 6 Clarity.html" />
+    <Url
+      Source="Chapter 7 Concreteness.html" />
+    <Url
+      Source="Chapter 8 Style.html" />
+    <Url
+      Source="Chapter 9 Organization.html" />
+    <Url
+      Source="copyright.html" />
+    <Url
+      Source="Glossary.html" />
+    <Url
+      Source="Part 1 Introduction.html" />
+    <Url
+      Source="Part 2 Easy to use.html" />
+    <Url
+      Source="Part 3 Easy to understand.html" />
+    <Url
+      Source="Part 4 Easy to find.html" />
+    <Url
+      Source="Part 5 Putting it all together.html" />
+    <Url
+      Source="Part 6 Appendixes.html" />
+    <Url
+      Source="Preface.html" />
+    <Url
+      Source="Read First.pdf" />
+    <Url
+      Source="Title Page - Developing Quality Technical Information A Handbook for Writers and Editors, Third Edition.html" />
+    <Url
+      Source="TOC.html" />
+    <Url
+      Source="A_Introduction Topics/MoreInformation.htm" />
+    <Url
+      Source="A_Introduction Topics/Welcome.htm" />
+    <Url
+      Source="A_Introduction Topics/WhatsNew.htm" />
+    <Url
+      Source="B_Feature Topics/Feature1.htm" />
+    <Url
+      Source="B_Feature Topics/Feature2.htm" />
+    <Url
+      Source="B_Feature Topics/Feature3.htm" />
+    <Url
+      Source="B_Feature Topics/Features.htm" />
+    <Url
+      Source="C_Procedure Topics/Procedure1.htm" />
+    <Url
+      Source="C_Procedure Topics/Procedure2.htm" />
+    <Url
+      Source="C_Procedure Topics/Procedure3.htm" />
+    <Url
+      Source="C_Procedure Topics/Procedures.htm" />
+    <Url
+      Source="Print Only Topics/TitlePage.htm" />
+    <Url
+      Source="Resources/PageLayouts/Chapters.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/FrontMatter.flpgl" />
+    <Url
+      Source="Resources/Stylesheets/styles.css" />
+  </SourceUrls>
+  <SourceLinkSetUrls>
+    <Url
+      Source="Advanced/IndexLinks.flixl" />
+  </SourceLinkSetUrls>
+  <UsedUrls>
+    <Url
+      Source="A_Introduction Topics/MoreInformation.htm"
+      Terms="Information" />
+    <Url
+      Source="A_Introduction Topics/WhatsNew.htm"
+      Terms="New features;Features:new" />
+  </UsedUrls>
+  <UsedIndexControlUrls />
+</CatapultGlobalIndex>
